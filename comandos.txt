@@ -1,0 +1,3 @@
+npm init -y
+npm i graphql-yoga mongoose 
+npm i @babel/cli @babel/core @babel/node  @babel/preset-env nodemon -D
